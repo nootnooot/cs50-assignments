@@ -16,6 +16,6 @@ Example:
 
 ___________________________________________________
 
-1. Lingesh (nootnooot) pset1
+1. Lingesh (nootnooot) pset5
 2. Ritik (ritikgarg07) pset2
 3. Prarabdh (PrarabdhGarg) pset2
